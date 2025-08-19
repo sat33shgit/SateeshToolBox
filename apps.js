@@ -2,22 +2,22 @@
 
 const apps = [
   {
-    name: "Task Manager",
-    url: "https://todoist.com/",
+    name: "Sateesh Sketch Book",
+    url: "https://sketches-website.vercel.app/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cb.png",
-    desc: "Organize and track your daily tasks."
+    desc: "Sateesh's Sketch Book."
   },
   {
-    name: "Notes App",
-    url: "https://keep.google.com/",
+    name: "Receipt Scanner",
+    url: "https://receipt-scanner-ai.streamlit.app/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dd.png",
-    desc: "Quickly jot down notes and ideas."
+    desc: "App to scan the receipts and show few details."
   },
   {
-    name: "Weather Watch",
-    url: "https://weather.com/",
+    name: "Audio to Text Convertor",
+    url: "",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2600.png",
-    desc: "Check the latest weather updates."
+    desc: "TBD."
   },
   {
     name: "Finance Tracker",
