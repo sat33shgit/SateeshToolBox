@@ -3,7 +3,7 @@
 const apps = [
   {
     name: "Sateesh Sketch Book",
-    url: "https://sketches-website.vercel.app/",
+    url: "https://sateesh-sketch-book.vercel.app/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cb.png",
     desc: "Sateesh's Sketch Book."
   },
