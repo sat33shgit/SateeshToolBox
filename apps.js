@@ -4,20 +4,20 @@ const apps = [
   {
     name: "Sateesh Sketch Book",
     url: "https://sateesh-sketch-book.vercel.app/",
-    icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cb.png",
+    icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/270f.png",
     desc: "Sateesh's Sketch Book."
   },
   {
     name: "Receipt Scanner",
     url: "https://receipt-scanner-ai.streamlit.app/",
-    icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dd.png",
+    icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4c4.png",
     desc: "App to scan the receipts and show few details."
   },
   {
     name: "Audio to Text Convertor",
-    url: "",
-    icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2600.png",
-    desc: "TBD."
+    url: "https://huggingface.co/spaces/SateeshAIWorld/audio-to-text-converter",
+    icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f399.png",
+    desc: "Audio to text convertor hosted on hugging face."
   },
   {
     name: "Finance Tracker",
