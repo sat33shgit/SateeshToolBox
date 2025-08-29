@@ -20,40 +20,40 @@ const apps = [
     desc: "Audio to text convertor hosted on hugging face."
   },
   {
-    name: "Finance Tracker",
-    url: "https://mint.intuit.com/",
+    name: "Youtube Audio Extractor",
+    url: "https://youtube-audio-extractor-d3cg.onrender.com/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4b0.png",
-    desc: "Monitor your expenses and savings."
+    desc: "Extract the audio file from YouTube videos."
   },
   {
-    name: "Habit Builder",
-    url: "https://habitica.com/",
+    name: "TBD",
+    url: "",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3c1.png",
-    desc: "Build and maintain good habits."
+    desc: ""
   },
   {
-    name: "Recipe Book",
-    url: "https://allrecipes.com/",
+    name: "TBD",
+    url: "",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f372.png",
-    desc: "Find and save your favorite recipes."
+    desc: ""
   },
   {
-    name: "Workout Log",
-    url: "https://www.myfitnesspal.com/",
+    name: "TBD",
+    url: "",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4aa.png",
-    desc: "Track your workouts and progress."
+    desc: ""
   },
   {
-    name: "Book Tracker",
-    url: "https://www.goodreads.com/",
+    name: "TBD",
+    url: "",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png",
-    desc: "Keep a list of books you want to read."
+    desc: ""
   },
   {
-    name: "Project Planner",
-    url: "https://trello.com/",
+    name: "TBD",
+    url: "",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5c3.png",
-    desc: "Plan and manage your projects visually."
+    desc: ""
   }
 ];
 
