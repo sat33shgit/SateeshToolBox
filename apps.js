@@ -2,10 +2,16 @@
 
 const apps = [
   {
-    name: "Sateesh Sketch Book",
-    url: "https://sateesh-sketch-book.vercel.app/",
+    name: "Sateesh Sketches",
+    url: "https://www.sateeshsketches.com/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/270f.png",
-    desc: "Sateesh's Sketch Book."
+    desc: "Sateesh Sketches."
+  },
+  {
+    name: "Sateesh Sketches - Admin",
+    url: "https://admin.sateeshsketches.com/",
+    icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/270f.png",
+    desc: "Sateesh Sketches - Admin"
   },
   {
     name: "Receipt Scanner",
