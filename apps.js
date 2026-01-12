@@ -38,22 +38,22 @@ const apps = [
     desc: "A collection of AI prompts."
   },
   {
-    name: "TBD",
-    url: "",
+    name: "Job Applications Tracker",
+    url: "https://jat.sateeshboggarapu.com/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f372.png",
-    desc: ""
+    desc: "Track your job applications efficiently."
   },
   {
-    name: "TBD",
-    url: "",
+    name: "Personal Portfolio",
+    url: "https://www.sateeshboggarapu.com/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4aa.png",
-    desc: ""
+    desc: "Personal portfolio of Sateesh Boggarapu."
   },
   {
-    name: "TBD",
-    url: "",
+    name: "YBH Ministries",
+    url: "https://ybhministries.vercel.app/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png",
-    desc: ""
+    desc: "YBH Ministries website."
   },
   {
     name: "TBD",
