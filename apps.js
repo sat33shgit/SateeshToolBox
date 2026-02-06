@@ -51,7 +51,7 @@ const apps = [
   },
   {
     name: "YBH Ministries",
-    url: "https://ybhministries.vercel.app/",
+    url: "https://ybhministries.org/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png",
     desc: "YBH Ministries website."
   },
