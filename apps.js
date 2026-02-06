@@ -35,7 +35,7 @@ const apps = [
     name: "AI Prompts Book",
     url: "https://aipromptsbook.vercel.app/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3c1.png",
-    desc: "A collection of AI prompts."
+    desc: "A collection of AI prompts (In-Progress)."
   },
   {
     name: "Job Applications Tracker",
