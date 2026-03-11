@@ -32,10 +32,10 @@ const apps = [
     desc: "Extract the audio file from YouTube videos."
   },
   {
-    name: "AI Prompts Book",
-    url: "https://aipromptsbook.vercel.app/",
+    name: "AI Prompts Manager",
+    url: "https://apm.sateeshboggarapu.com/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3c1.png",
-    desc: "A collection of AI prompts (In-Progress)."
+    desc: "A collection of AI prompts."
   },
   {
     name: "Job Applications Tracker",
