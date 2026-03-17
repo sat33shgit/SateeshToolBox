@@ -56,10 +56,16 @@ const apps = [
     desc: "YBH Ministries website."
   },
   {
-    name: "TBD",
-    url: "",
+    name: "Hymn Book",
+    url: "https://hymnbook-one.vercel.app/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5c3.png",
-    desc: ""
+    desc: "Christian hymns and choruses collection."
+  },
+  {
+    name: "AI Projects Timesheet Tracker",
+    url: "https://projects-timesheet-tracker.vercel.app/",
+    icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d5.png",
+    desc: "Track AI project timesheets efficiently."
   }
 ];
 
