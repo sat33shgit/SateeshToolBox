@@ -57,13 +57,13 @@ const apps = [
   },
   {
     name: "Hymn Book",
-    url: "https://hymnbook-one.vercel.app/",
+    url: "https://hb.sateeshboggarapu.com/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5c3.png",
     desc: "Christian hymns and choruses collection."
   },
   {
     name: "AI Projects Timesheet Tracker",
-    url: "https://projects-timesheet-tracker.vercel.app/",
+    url: "https://ptt.sateeshboggarapu.com/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d5.png",
     desc: "Track AI project timesheets efficiently."
   }
