@@ -66,6 +66,12 @@ const apps = [
     url: "https://ptt.sateeshboggarapu.com/",
     icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d5.png",
     desc: "Track AI project timesheets efficiently."
+  },
+  {
+    name: "Projects Estimator Tool",
+    url: "https://pet.sateeshboggarapu.com/",
+    icon: "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d5.png",
+    desc: "Estimate project timelines and costs efficiently."
   }
 ];
 
